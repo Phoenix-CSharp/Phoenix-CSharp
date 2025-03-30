@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @cosmicstone
+- 👀 I’m interested in GameDev and also i created some mode`s for Terraria game.
+- 🌱 I’m currently learning C#, C++, Java, JavaScript, Css, HTML5, C
+- ⚡ Fun fact: I`m student TPU "Tomsk Polytechnic University"
+
+<!---
+cosmicstone/cosmicstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
