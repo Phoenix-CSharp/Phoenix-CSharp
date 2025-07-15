@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phoenix
-- 👀 I’m interested in GameDev and also i created some mode`s for Terraria game.
+- 👀 I’m interested in GameDev and also i created some mod`s for Terraria game.
 - 🌱 I’m currently learning C#, C++, Java, JavaScript, CSS, HTML5, C
 - ⚡ Fun fact: I`m student TPU "Tomsk Polytechnic University"
 
