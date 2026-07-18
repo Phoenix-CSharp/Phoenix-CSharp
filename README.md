@@ -42,7 +42,7 @@
 
 ### My IDE/text editor's
 
-<div aling="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="40" alt="visualstudio logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
