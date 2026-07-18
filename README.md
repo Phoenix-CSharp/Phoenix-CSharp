@@ -40,12 +40,23 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
 </div>
 
-###
+### My IDE/text editor's
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" width="12" alt="git logo"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" width="12" alt="postgresql logo"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" width="12" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="12" alt="microsoftsqlserver logo"  />
 </div>
 - 👋 Hi, I’m Phoenix
