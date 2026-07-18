@@ -43,21 +43,21 @@
 ### My IDE/text editor's
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="40" alt="visualstudio logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vim&theme=light" height="40" alt="vim logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"/>
+  <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"/>
+  <img src="https://skillicons.dev/icons?i=pychar&theme=lightm" height="40" alt="pycharm logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"/>
+  <img src="https://skillicons.dev/icons?i=idea&theme=light" height="40" alt="idea logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo"/>
+  <img src="https://skillicons.dev/icons?i=clion&theme=light" height="40" alt="clion logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" height="40" alt="androidstudio logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="12" alt="microsoftsqlserver logo"  />
 </div>
