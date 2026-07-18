@@ -51,7 +51,7 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=pychar&theme=lightm" height="40" alt="pycharm logo"/>
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=light" height="40" alt="pycharm logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=idea&theme=light" height="40" alt="idea logo"/>
   <img width="12"/>
