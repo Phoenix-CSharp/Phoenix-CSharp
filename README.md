@@ -5,11 +5,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="clang logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" width="12" alt="csharp logo"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" width="12" alt="cplusplus logo"/>
-  <img src="https://skillicons.dev/icons?i=go" height="40" width="12" alt="golang logo"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="40" width="12" alt="rust logo"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" width="12" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"/>
 </div>
 
 ###
