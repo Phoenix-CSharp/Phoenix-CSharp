@@ -19,12 +19,28 @@
 ###
 
 <div aling="center">
-  <img src="https://skillicons.dev/icons?i=lua&theme=light" height="40" width="12" alt="lua logo"/>
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40" width="12" alt="kotlin logo"/>
-  <img src="https://skillicons.dev/icons?i=php&theme=light" height="40" width="12" alt="php logo"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" width="12" alt="typescript logo"/>
-  <img src="https://skillicons.dev/icons?i=py&theme=light" height="40" width="12" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=lua&theme=light" height="40" alt="lua logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40" alt="kotlin logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php&theme=light" height="40" alt="php logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" height="40" alt="python logo"/>
 </div>
+
+###
+
+<div aling=center>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+</div>
+
+###
 
 <div aling="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" width="12" alt="git logo"/>
