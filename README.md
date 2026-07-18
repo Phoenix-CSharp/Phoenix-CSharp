@@ -1,6 +1,6 @@
 <h1 align="center">🐦‍🔥 Phoenix 🐦‍🔥</h1>
 
-###
+### Languages:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="clang logo"/>
@@ -32,7 +32,7 @@
 
 ###
 
-<div aling=center>
+<div aling="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
