@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
 </div>
 
-### My IDE/text editor's
+### My IDE/text editors:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="40" alt="visualstudio logo"/>
@@ -58,17 +58,59 @@
   <img src="https://skillicons.dev/icons?i=clion&theme=light" height="40" alt="clion logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" height="40" alt="androidstudio logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="12" alt="microsoftsqlserver logo"  />
 </div>
 
-### Engine's:
+### Engines:
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity&theme=light" height="40" alt="unity logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=unreal&theme=light" height="40" alt="unrealengine logo"/>
 </div>
-- 👋 Hi, I’m Phoenix
-- 👀 I’m interested in GameDev and also i created some mod`s for Terraria game.
-- 🌱 I’m currently learning C#, C++, Java, JavaScript, CSS, HTML5, C, Python
-- ⚡ Fun fact: I`m student TPU "Tomsk Polytechnic University"
+
+### Tools:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=npm&theme=light" height="40" alt="npm logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="figma logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
+</div>
+
+### Data bases:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="postgresql logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysgl&theme=light" height="40" alt="mysql logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
+</div>
+
+### OS:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows&theme=light" height="40" alt="windows logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"/>
+</div>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Phoenix-CSharp&theme=nord&show_icons=true&hide_border=true&count_private=true&locale=ru"/>
+  <img width="12"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Phoenix-CSharp&theme=nord&hide_border=true"/>
+  <img width="12"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Phoenix-CSharp&theme=nord&show_icons=true&hide_border=true&count_private=true&locale=ru"/>
+  <img width="12"/>
+</p>
