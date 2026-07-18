@@ -1,6 +1,6 @@
-<h1 align="center">🐦‍🔥 Phoenix</h1>
+<h1 align="center">🐦‍🔥 Phoenix 🐦‍🔥</h1>
 
-### Languages:
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="clang logo"/>
@@ -18,7 +18,7 @@
 
 ###
 
-<div aling="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=lua&theme=light" height="40" alt="lua logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="40" alt="kotlin logo"/>
