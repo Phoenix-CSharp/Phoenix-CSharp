@@ -7,8 +7,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fs" height="40" alt="fsharp logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"/>
